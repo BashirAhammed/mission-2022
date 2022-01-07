@@ -1,0 +1,142 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Intro-part{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 30%;
+    margin-top: 20px;
+    
+}
+
+.Intro-part img{
+    width: 50%;
+    
+    
+}
+.intro-image{
+    padding-left: 100px;
+}
+
+.heading-part{
+    color:orange;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 80px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+.button-click{
+    background-color: tomato;
+    text-decoration: none;
+    padding: 5px 13px;
+    color: white;
+    border-radius: 2px;
+
+}
+
+#scroll-info{
+    margin-top: 40px;
+}
+
+.second-sec{
+    margin-top: 60px;
+}
+
+.mission-part{
+    display: flex;
+    margin-left: 120px;
+    
+    
+}
+
+.first-mission{
+   
+    margin-left: 20px; 
+    margin-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(216, 226, 240);
+}
+
+.second-vision{
+    margin-left: 20px; 
+    margin-right: 15px; 
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(238, 225, 227);
+}
+
+.third-goals{
+    margin-left: 20px;
+    margin-right: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(250, 250, 175);
+}
+
+.quater-width{
+    width: 25%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    align-content: center;
+}
+
+.quater-width img{
+    width: 50%;
+}
+
+.second-heading{
+    text-align: center;
+}
+
+.coding-part{
+    display: flex;
+    width: 80%;
+    margin-top: 60px;
+    background-image: url(shapes/shape-1.png);
+    background-position: left;
+    background-size: 200px;
+    background-position-y:25px ;
+    background-repeat: no-repeat;
+
+}
+
+.coding-part img{
+    width: 65%;
+    margin-left: 120px;
+}
+
+.project-part{
+    display: flex;
+    width: 80%;
+    margin-top: 60px;
+    margin-left: 110px;
+    background-image: url(shapes/shape-1.png);
+    background-position: right;
+    background-size: 170px;
+    background-position-y:220px ;
+    background-repeat: no-repeat;
+
+
+}
+.project-part img{
+    width: 65%;
+    margin-left: 60px;
+}
+
+.large-button{
+    background-color: tomato;
+    text-decoration: none;
+    padding: 8px 17px;
+    color: white;
+    border-radius: 5px;
+}
