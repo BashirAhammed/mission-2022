@@ -140,3 +140,13 @@ h2{
     color: white;
     border-radius: 5px;
 }
+
+.bottom-page{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#last-para{
+    font-size: 10px;
+}
