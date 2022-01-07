@@ -12,21 +12,30 @@ body{
 }
 
 .Intro-part img{
-    width: 50%;
+    width: 70%;
     
     
 }
 .intro-image{
-    padding-left: 100px;
+    padding-left: 120px;
 }
 
 .heading-part{
     color:orange;
 }
 
+#left-border{
+    border-left: 4px solid tomato;
+    height: 120px;
+
+    
+    
+}
+
 h1{
     font-size: 45px;
     font-weight: 80px;
+    
 }
 
 h2{
@@ -38,7 +47,7 @@ h2{
     text-decoration: none;
     padding: 5px 13px;
     color: white;
-    border-radius: 2px;
+    border-radius: 5px;
 
 }
 
@@ -83,11 +92,13 @@ h2{
 }
 
 .quater-width{
-    width: 25%;
-    margin-left: 0px;
+    width: 20%;
+    margin-left: 40px;
     margin-right: 0px;
-    padding-left: 0px;
+    padding-left: 18px;
     align-content: center;
+    border-radius: 8px;
+    height: 300px;
 }
 
 .quater-width img{
